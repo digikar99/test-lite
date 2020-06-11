@@ -1,5 +1,7 @@
 # Why one more?
 
+> Forget what I wrote below. [fiveam is excellent for what it is!](https://common-lisp-libraries.readthedocs.io/fiveam/#getting-started)
+
 As of December 2019, [prove](https://github.com/fukamachi/prove) has been archived. One facility of prove that I fell in love were the `is-` forms: I haven't had the experience to use other facilities of interactive debugging (still getting a hang on condition-system), and suites (haven't worked on a big enough project),
 and timing, and subtests, and fail and pass and finalize and more. May be it's just lack of experience. While prove has been succeeded by [rove](https://github.com/fukamachi/rove), rove doesn't seem to include the `is-` forms.
 
